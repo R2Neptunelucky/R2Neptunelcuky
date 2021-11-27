@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta name="keywords" content="Mi primer titulo, pagina web">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="descirpcion de mi sitio web" content="Esta es mi primera pagina web">
+        <title>Nombre de la pagina web</title>
+    </head>
+    <body>
+        <header>
+            <h1>Mi Blog</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>Principal</li>
+                <li>Ayuda</li>
+                <li>Contacto</li>
+            </ul>
+        </nav>
+        <section>
+            <article>
+                <hgroup>
+                    <h2>Titulo del primer aritculo</h2>
+                <h1>Subtitulo del primer aritculo</h1>
+                </hgroup>
+                <time datetime="26-Octubre-2021">Publicado 26-Octubre-2021</time>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatibus optio delectus recusandae autem non,
+                harum, sit, <small>excepturi eligendi nisi neque facilis</small>. <cite>Perferendis fugit in maiores iure asperiores doloribus</cite> at!</p>
+                    <img src="Imagenes/MiyaGod.png">
+                    <footer>
+                        <p>Comentarios(0)</p>
+                    </footer>
+                    <address>
+                        <a href="https://www.instagram.com/schmelman__bach/">¡Pasate por mi Instagram y sigueme!</a>
+                        <p>
+                            PD: Si, es la misma cuenta con la foto de arriba XD
+                        </p>
+                    </address>
+            </article>
+            <article>
+                <hgroup>
+                    <h2>Titulo del segundo aritculo</h2>
+                    <h1>Subtitulo del segundo aritculo</h1>
+                </hgroup>
+                <time datetime="26-Octubre-2021">Publicado 26-Octubre-2021</time>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia voluptatum ducimus adipisci necessitatibus possimus
+                reprehenderit hic a, fugiat inventore corporis maiores eveniet quaerat, expedita iure, doloremque at labore dolore cum.</p>
+                    <footer> 
+                        Comentarios  (10)
+                    </footer>
+            </article>
+        </section>
+        <aside>
+            <blockquote cite="https://phoenixfansub.com">
+                Mensaje 1
+            </blockquote>
+            <blockquote cite="https://Instagram/Schelman__Bach">
+                Mensaje 2
+            </blockquote>
+        </aside>
+        <footer>
+            Derechos Reservados 2005-2021
+        </footer>
+    </body>
+</html>
